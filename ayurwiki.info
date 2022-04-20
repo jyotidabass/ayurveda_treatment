@@ -1,0 +1,58 @@
+name = Ayurwiki
+old_short_name = standard
+description = Default installation profile for Serion
+core = 7.x
+theme = blogbuzz
+
+; Core
+
+dependencies[] = block
+dependencies[] = blog
+dependencies[] = comment
+dependencies[] = field
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = filter
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = overlay
+dependencies[] = path
+dependencies[] = rdf
+dependencies[] = taxonomy
+dependencies[] = trigger
+
+; Contrib
+
+dependencies[] = libraries
+dependencies[] = admin_menu
+dependencies[] = better_exposed_filters
+dependencies[] = ctools
+dependencies[] = diff
+dependencies[] = ds
+dependencies[] = field_group
+dependencies[] = flexslider
+dependencies[] = flexifilter
+dependencies[] = follow
+dependencies[] = footnotes
+dependencies[] = freelinking
+dependencies[] = jcarousel
+dependencies[] = jquery_update
+dependencies[] = markdown
+dependencies[] = metatag
+dependencies[] = notify
+dependencies[] = page_manager
+dependencies[] = pathauto
+dependencies[] = panels
+dependencies[] = redirect
+dependencies[] = tableofcontents
+dependencies[] = talk
+dependencies[] = textformatter
+dependencies[] = views
+dependencies[] = views_slideshow
+dependencies[] = views_ui
+dependencies[] = webform
+dependencies[] = wikitools
+dependencies[] = xmlsitemap
+
